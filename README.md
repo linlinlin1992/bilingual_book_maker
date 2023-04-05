@@ -13,7 +13,7 @@ The bilingual_book_maker is an AI translation tool that uses ChatGPT to assist u
 3. Environment with internet access or proxy
 4. Python 3.8+
 
-## Use
+## Use 
 
 - `pip install -r requirements.txt` or `pip install -U bbook_maker`(you can use)
 - Use `--openai_key` option to specify OpenAI API key. If you have multiple keys, separate them by commas (xxx,xxx,xxx) to reduce errors caused by API call limits.
